@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "visionai-textrecognition",
+  "private_key_id": "f5f824c4947612f0930c5dd7730f2c4c39a2e667",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCoK0S+P0nM6Obw\nZkNor9JnLGtYOtLqT7KZRZdrJXXctCUydMhwl7ONZ0mxTyd0bZsL8epzxKjRcP+e\nr4bizz5Now8YefCxLQ6BIML4ZeM8QP+dwYl7+5wNyTu/GgwgEWMrwTZcuz0LB8kG\ndM48nddhjCdQLL7MZhfH0+fZcnqW+xU1wtB9eUOdcR5VUj9nsevn+7aadUfcY8Di\ntQZjy2IUqb3QdIRpxht8r+hrVPpQC3RffVi1td5JMe7x8Uls/8InnkxFFd9sX/39\noZeKEd9lp1ii8FuPAAjcbsufWmiVH/HNqagX9eRhFE5R4OLzNX+F7t1LIKHF5ewe\nFavnTo+lAgMBAAECggEAAZtGNm4QLwJeQGzYVy3ve+JXVS9crUsyc4HlcCsvsiUm\nF30OSXsS2/aLuZiovGqWo67S30/BOsenqCpY8XOVjrQl1FqdM3LGKR15F1qRKOsd\ntgdaYEzsoPoWQB1dgR9BZrKGFIKKaFT8SpDqQ8x7OViXgI3TiyGCN9ESWDKz2/De\npH8NRruL1f8gXtJtjpAZUHxCZdNEsFn/eAKAgNsmVCEWFIcf6t/i5DzrpxrPB8eO\nI50InJg1z2QwPklVkl4vUyzHDV+OzzAHjrH6YzWYyT0I0QKABJL7vYnh9ID3NZ47\nrjjGwIH4ntY8cFe/Zhi4I9gO+gozJWJ1teoZ5IjGWQKBgQDes31uPgUmGs9vtIBm\nXDW09HJ8NYWRCD081HnGaFLitNUGU62Y4ZkuhO3gPa/QBxgp2y0X3VgOZYtYlH7K\ncOoVbnGNTeP7vOZJoKfdbFvQSlcYiFC+bA0D0sloJyQNO84pKTUnNJup6XxC86/2\ny5jrqtIeecb+AfYm0kBl109w2QKBgQDBUGi1pch0hLm5jZUBsv+wdbQkLWVDvrWi\nEmaE1hjGiyyTqavadganVltXuz1R19tewZOYIAeBv9+Sl9GfCLk4c3wus51aZu3U\n6hi8HjHRkVocCQxMqCUmjsrFRm2bNDO12hJP6NC4an/6Ovv5eSvUz0aGjhVhjwKT\nJ/7sUtmVrQKBgQCN049ZCwRqbP6YbEKtbaICeP8EHW3PnIirWcGn2r6WhIV5/wZ6\na4oLdzqq6X4zJKF93oiMPzmaCY9BvWg18s0REwIb9HPx2S5ry3W8bQrXztBC3mVV\nsChlu/LqcqriBqlXy1d/fWB5SCoL1XfF24mq5GHmaLWTBJrHxHSgpwt/mQKBgQCw\nW/g7B7S5wEBj7Kus8i1cQfWHL7b7t+eipWDL/Tp7H4saZ6d11Uk6rokEn7hQizoB\n114cYdQXZgHEjibaDK5Vtt3rCUgbql19adgI/w76Hr3zZ7nF0XybEZgho5/pARXP\n6NPd/Qs1w0tf8SHhtc7sBfFUXhlZeIujztA9r1P7vQKBgQCfYfzZ371ALxCfyFpx\nZqbDziCMSU4yp4U2V2nMbsj4Y1zD0ZJXK8kj/gtduU0RX0caZbnAlmAX4/o8KJhZ\nscVdepl7xt3pKfLHrYXqzppQrRvzfl7Mq2TgCM0w0ojU1TBWmuT9HzcWI71a/K3j\nL5EI8dssSbgcfFYp7lwzt4JEiA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "sa--textrecognition-api@visionai-textrecognition.iam.gserviceaccount.com",
+  "client_id": "111006684221771633288",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sa--textrecognition-api%40visionai-textrecognition.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
